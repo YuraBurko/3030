@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-image: url(header.png)
+}
+aside#left {
+    background-color: white;
+}
+main {
+    background-image: url(main.png)
+}
+aside#right {
+    background-color: white;
+}
+footer {
+    background-color: brown;
+}
